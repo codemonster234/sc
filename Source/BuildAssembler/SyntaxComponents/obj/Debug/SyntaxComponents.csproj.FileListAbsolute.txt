@@ -1,0 +1,11 @@
+C:\Users\pchan\Desktop\Sandcastle-55578\Development\Source\BuildAssembler\SyntaxComponents\bin\Debug\SyntaxComponents.dll
+C:\Users\pchan\Desktop\Sandcastle-55578\Development\Source\BuildAssembler\SyntaxComponents\bin\Debug\SyntaxComponents.pdb
+C:\Users\pchan\Desktop\Sandcastle-55578\Development\Source\BuildAssembler\SyntaxComponents\bin\Debug\BuildAssemblerLibrary.dll
+C:\Users\pchan\Desktop\Sandcastle-55578\Development\Source\BuildAssembler\SyntaxComponents\bin\Debug\BuildComponents.dll
+C:\Users\pchan\Desktop\Sandcastle-55578\Development\Source\BuildAssembler\SyntaxComponents\bin\Debug\CommandLine.dll
+C:\Users\pchan\Desktop\Sandcastle-55578\Development\Source\BuildAssembler\SyntaxComponents\bin\Debug\BuildAssemblerLibrary.pdb
+C:\Users\pchan\Desktop\Sandcastle-55578\Development\Source\BuildAssembler\SyntaxComponents\bin\Debug\BuildComponents.pdb
+C:\Users\pchan\Desktop\Sandcastle-55578\Development\Source\BuildAssembler\SyntaxComponents\bin\Debug\CommandLine.pdb
+C:\Users\pchan\Desktop\Sandcastle-55578\Development\Source\BuildAssembler\SyntaxComponents\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\pchan\Desktop\Sandcastle-55578\Development\Source\BuildAssembler\SyntaxComponents\obj\Debug\SyntaxComponents.dll
+C:\Users\pchan\Desktop\Sandcastle-55578\Development\Source\BuildAssembler\SyntaxComponents\obj\Debug\SyntaxComponents.pdb

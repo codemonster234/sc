@@ -1,0 +1,8 @@
+C:\Users\pchan\Desktop\Sandcastle-55578\Development\Source\CCI\bin\Release\CCI.dll
+C:\Users\pchan\Desktop\Sandcastle-55578\Development\Source\CCI\bin\Release\CCI.pdb
+C:\Users\pchan\Desktop\Sandcastle-55578\Development\Source\CCI\obj\Release\ResolveAssemblyReference.cache
+C:\Users\pchan\Desktop\Sandcastle-55578\Development\Source\CCI\obj\Release\CCI.ExceptionStrings.resources
+C:\Users\pchan\Desktop\Sandcastle-55578\Development\Source\CCI\obj\Release\GenerateResource-ResGen.read.1.tlog
+C:\Users\pchan\Desktop\Sandcastle-55578\Development\Source\CCI\obj\Release\GenerateResource-ResGen.write.1.tlog
+C:\Users\pchan\Desktop\Sandcastle-55578\Development\Source\CCI\obj\Release\CCI.dll
+C:\Users\pchan\Desktop\Sandcastle-55578\Development\Source\CCI\obj\Release\CCI.pdb

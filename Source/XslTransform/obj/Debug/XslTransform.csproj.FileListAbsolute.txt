@@ -1,0 +1,7 @@
+C:\Users\pchan\Desktop\Sandcastle-55578\Development\Source\XslTransform\bin\Debug\XslTransform.exe
+C:\Users\pchan\Desktop\Sandcastle-55578\Development\Source\XslTransform\bin\Debug\XslTransform.pdb
+C:\Users\pchan\Desktop\Sandcastle-55578\Development\Source\XslTransform\bin\Debug\CommandLine.dll
+C:\Users\pchan\Desktop\Sandcastle-55578\Development\Source\XslTransform\bin\Debug\CommandLine.pdb
+C:\Users\pchan\Desktop\Sandcastle-55578\Development\Source\XslTransform\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\pchan\Desktop\Sandcastle-55578\Development\Source\XslTransform\obj\Debug\XslTransform.exe
+C:\Users\pchan\Desktop\Sandcastle-55578\Development\Source\XslTransform\obj\Debug\XslTransform.pdb

@@ -1,0 +1,7 @@
+C:\Users\pchan\Desktop\Sandcastle-55578\Development\Source\Reflection\bin\Debug\Reflection.dll
+C:\Users\pchan\Desktop\Sandcastle-55578\Development\Source\Reflection\bin\Debug\Reflection.pdb
+C:\Users\pchan\Desktop\Sandcastle-55578\Development\Source\Reflection\bin\Debug\CCI.dll
+C:\Users\pchan\Desktop\Sandcastle-55578\Development\Source\Reflection\bin\Debug\CCI.pdb
+C:\Users\pchan\Desktop\Sandcastle-55578\Development\Source\Reflection\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\pchan\Desktop\Sandcastle-55578\Development\Source\Reflection\obj\Debug\Reflection.dll
+C:\Users\pchan\Desktop\Sandcastle-55578\Development\Source\Reflection\obj\Debug\Reflection.pdb

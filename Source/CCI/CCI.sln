@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CCI", "CCI.csproj", "{4CB332D6-976E-44F6-A320-A515A9D1D1D3}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+		Sandcastle|Any CPU = Sandcastle|Any CPU
+		WebDocsDebug|Any CPU = WebDocsDebug|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4CB332D6-976E-44F6-A320-A515A9D1D1D3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4CB332D6-976E-44F6-A320-A515A9D1D1D3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4CB332D6-976E-44F6-A320-A515A9D1D1D3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4CB332D6-976E-44F6-A320-A515A9D1D1D3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4CB332D6-976E-44F6-A320-A515A9D1D1D3}.Sandcastle|Any CPU.ActiveCfg = Sandcastle|Any CPU
+		{4CB332D6-976E-44F6-A320-A515A9D1D1D3}.Sandcastle|Any CPU.Build.0 = Sandcastle|Any CPU
+		{4CB332D6-976E-44F6-A320-A515A9D1D1D3}.WebDocsDebug|Any CPU.ActiveCfg = WebDocsDebug|Any CPU
+		{4CB332D6-976E-44F6-A320-A515A9D1D1D3}.WebDocsDebug|Any CPU.Build.0 = WebDocsDebug|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

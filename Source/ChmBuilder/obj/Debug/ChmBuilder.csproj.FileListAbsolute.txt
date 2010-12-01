@@ -1,0 +1,8 @@
+C:\Users\pchan\Desktop\Sandcastle-55578\Development\Source\ChmBuilder\bin\Debug\ChmBuilder.config
+C:\Users\pchan\Desktop\Sandcastle-55578\Development\Source\ChmBuilder\bin\Debug\ChmBuilder.exe
+C:\Users\pchan\Desktop\Sandcastle-55578\Development\Source\ChmBuilder\bin\Debug\ChmBuilder.pdb
+C:\Users\pchan\Desktop\Sandcastle-55578\Development\Source\ChmBuilder\bin\Debug\CommandLine.dll
+C:\Users\pchan\Desktop\Sandcastle-55578\Development\Source\ChmBuilder\bin\Debug\CommandLine.pdb
+C:\Users\pchan\Desktop\Sandcastle-55578\Development\Source\ChmBuilder\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\pchan\Desktop\Sandcastle-55578\Development\Source\ChmBuilder\obj\Debug\ChmBuilder.exe
+C:\Users\pchan\Desktop\Sandcastle-55578\Development\Source\ChmBuilder\obj\Debug\ChmBuilder.pdb

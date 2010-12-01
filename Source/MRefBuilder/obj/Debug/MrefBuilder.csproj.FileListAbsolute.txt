@@ -1,0 +1,13 @@
+C:\Users\pchan\Desktop\Sandcastle-55578\Development\Source\MRefBuilder\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\pchan\Desktop\Sandcastle-55578\Development\Source\MRefBuilder\bin\Debug\MRefBuilder.config
+C:\Users\pchan\Desktop\Sandcastle-55578\Development\Source\MRefBuilder\bin\Debug\MrefBuilder.exe.config
+C:\Users\pchan\Desktop\Sandcastle-55578\Development\Source\MRefBuilder\bin\Debug\MrefBuilder.exe
+C:\Users\pchan\Desktop\Sandcastle-55578\Development\Source\MRefBuilder\bin\Debug\MrefBuilder.pdb
+C:\Users\pchan\Desktop\Sandcastle-55578\Development\Source\MRefBuilder\bin\Debug\CCI.dll
+C:\Users\pchan\Desktop\Sandcastle-55578\Development\Source\MRefBuilder\bin\Debug\CommandLine.dll
+C:\Users\pchan\Desktop\Sandcastle-55578\Development\Source\MRefBuilder\bin\Debug\Reflection.dll
+C:\Users\pchan\Desktop\Sandcastle-55578\Development\Source\MRefBuilder\bin\Debug\CCI.pdb
+C:\Users\pchan\Desktop\Sandcastle-55578\Development\Source\MRefBuilder\bin\Debug\CommandLine.pdb
+C:\Users\pchan\Desktop\Sandcastle-55578\Development\Source\MRefBuilder\bin\Debug\Reflection.pdb
+C:\Users\pchan\Desktop\Sandcastle-55578\Development\Source\MRefBuilder\obj\Debug\MrefBuilder.exe
+C:\Users\pchan\Desktop\Sandcastle-55578\Development\Source\MRefBuilder\obj\Debug\MrefBuilder.pdb

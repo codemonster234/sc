@@ -1,0 +1,5 @@
+C:\Users\pchan\Desktop\Sandcastle-55578\Development\Source\CommandLine\bin\Debug\CommandLine.dll
+C:\Users\pchan\Desktop\Sandcastle-55578\Development\Source\CommandLine\bin\Debug\CommandLine.pdb
+C:\Users\pchan\Desktop\Sandcastle-55578\Development\Source\CommandLine\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\pchan\Desktop\Sandcastle-55578\Development\Source\CommandLine\obj\Debug\CommandLine.dll
+C:\Users\pchan\Desktop\Sandcastle-55578\Development\Source\CommandLine\obj\Debug\CommandLine.pdb

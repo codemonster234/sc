@@ -1,0 +1,9 @@
+C:\Users\pchan\Desktop\Sandcastle-55578\Development\Source\BuildAssembler\BuildAssembler\bin\Debug\BuildAssembler.exe
+C:\Users\pchan\Desktop\Sandcastle-55578\Development\Source\BuildAssembler\BuildAssembler\bin\Debug\BuildAssembler.pdb
+C:\Users\pchan\Desktop\Sandcastle-55578\Development\Source\BuildAssembler\BuildAssembler\bin\Debug\BuildAssemblerLibrary.dll
+C:\Users\pchan\Desktop\Sandcastle-55578\Development\Source\BuildAssembler\BuildAssembler\bin\Debug\CommandLine.dll
+C:\Users\pchan\Desktop\Sandcastle-55578\Development\Source\BuildAssembler\BuildAssembler\bin\Debug\CommandLine.pdb
+C:\Users\pchan\Desktop\Sandcastle-55578\Development\Source\BuildAssembler\BuildAssembler\bin\Debug\BuildAssemblerLibrary.pdb
+C:\Users\pchan\Desktop\Sandcastle-55578\Development\Source\BuildAssembler\BuildAssembler\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\pchan\Desktop\Sandcastle-55578\Development\Source\BuildAssembler\BuildAssembler\obj\Debug\BuildAssembler.exe
+C:\Users\pchan\Desktop\Sandcastle-55578\Development\Source\BuildAssembler\BuildAssembler\obj\Debug\BuildAssembler.pdb
